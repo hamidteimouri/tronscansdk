@@ -1,0 +1,5 @@
+/.idea
+/.vscode
+*.sh
+*.env
+*.DS_Store
