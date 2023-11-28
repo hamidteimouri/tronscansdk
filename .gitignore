@@ -3,3 +3,4 @@
 *.sh
 *.env
 *.DS_Store
+/main
