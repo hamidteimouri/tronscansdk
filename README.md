@@ -7,7 +7,7 @@ go get -u github.com/hamidteimouri/tronscansdk
 ```
 
 ### Get Balance Of Usdt
-there is a method named `GetBalanceOfUsdt` that returns `USDT (TRC20)` balance of a wallet.
+There is a method named `GetBalanceOfUsdt` that returns `USDT (TRC20)` balance of a wallet.
 ```go
 package main
 
